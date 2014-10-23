@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#0b79d0</color>
+    <color name="primary_dark_color">#1a68d1</color>
+    <color name="primary_half_color">#7f0b79d0</color>
+    <color name="white">#ffffff</color>
+    <drawable name="transparent">@android:color/transparent</drawable>
+</resources>
